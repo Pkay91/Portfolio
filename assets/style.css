@@ -2,6 +2,7 @@ body {
    
     margin: 0px auto;
     background-color: #f1f1f5;
+    
 
  }
               /* Header related CSS */
@@ -163,6 +164,7 @@ h1, h2, h3 {
 
 .work img {
          width: 100%;
+         height: 200px;
         }
 
 .work h3 {
